@@ -1,9 +1,11 @@
 # 🐙 About Me:
-Hi, I'm Alix.I'm a passionate web developer dedicated to bringing your vision to life. Whether you're looking to create something new or enhance your online presence, I'm here to help. Explore my portfolio or reach out—let's build something amazing together!
+Hi, I'm Alix — a web developer and game enthusiast based in Oswego, Illinois. I specialize in crafting interactive websites and engaging games that bring ideas to life. Whether you're aiming to build a new digital experience or enhance an existing one, I'm here to help.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alix-mcgill-a17a452a5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_AlixMcgill_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mcgillwebdev@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alix-mcgill-a17a452a5) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_AlixMcgill_) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mcgillwebdev@gmail.com) 
 
 # 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
