@@ -1,5 +1,5 @@
-# 🐙 About Me:
-Hi, I'm Alix — a web developer and game enthusiast based in Oswego, Illinois. I specialize in crafting interactive websites and engaging games that bring ideas to life. Whether you're aiming to build a new digital experience or enhance an existing one, I'm here to help.
+# 🐙 Hi, I'm Alix:
+I'm a web developer and game enthusiast based in Oswego, Illinois. I specialize in crafting interactive websites and engaging games that bring ideas to life. Whether you're aiming to build a new digital experience or enhance an existing one, I'm here to help.
 
 
 ## 🌐 Socials:
