@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🐙 About Me:
 Hi, I'm Alix.I'm a passionate web developer dedicated to bringing your vision to life. Whether you're looking to create something new or enhance your online presence, I'm here to help. Explore my portfolio or reach out—let's build something amazing together!
 
 
