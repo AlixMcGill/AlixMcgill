@@ -14,7 +14,7 @@ I'm a web developer and game enthusiast based in Illinois. I specialize in craft
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_AlixMcgill_) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mcgillwebdev@gmail.com) 
 
-# 💻 Tech Stack:
+# 💻 Skills:
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
